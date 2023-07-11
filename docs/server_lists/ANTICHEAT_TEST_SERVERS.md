@@ -8,12 +8,12 @@ This list contains some popular anti-cheat test servers, along with some kind of
 - NA: na.anticheat-test.com
 #### Anti-Cheats
 Note: These anti-cheats are sorted by current popularity
- - Vulcan (latest)
- - Grim (latest)
- - NCP (old version)
+ - Vulcan (2.7.5)
+ - Grim (2.3.28)
+ - NCP (3.16.0-RC-sMOSNET)
  - AAC (4.4.2)
- - Matrix (latest?)
- - Verus
+ - Matrix (6.9.5)
+ - Verus Premium
  - Spartan
  - HAC
  - DAC
