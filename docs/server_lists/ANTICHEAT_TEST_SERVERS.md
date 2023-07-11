@@ -10,16 +10,16 @@ This list contains some popular anti-cheat test servers, along with some kind of
 Note: These anti-cheats are sorted by current popularity
  - Vulcan (2.7.5)
  - Grim (2.3.28)
- - NCP (3.16.0-RC-sMOSNET)
+ - NCP (3.16.0-RC-sMOSNET-b1134)
  - AAC (4.4.2)
  - Matrix (6.9.5)
  - Verus Premium
- - Spartan
- - HAC
- - DAC
- - Taka
- - Frequency
- - Sloth
+ - Spartan (Phase 507.2)
+ - HAC (0.45a)
+ - DAC (1.0.7)
+ - Taka (9.1.2)
+ - Frequency (1.0)
+ - Sloth (2.4.3)
 #### Notes
 - This test server has a very stable anti-cheat selector system, and has literally no known bugs
 - It also has multiple anti-cheats, though you need to supplement with another test server such as Loyisa's Test Server
@@ -30,15 +30,20 @@ Note: These anti-cheats are sorted by current popularity
 - AS: mc.loyisa.cn
 #### Anti-Cheats
 Note: These anti-cheats are sorted by current popularity, and some other factors
-- Vulcan (latest)
-- Grim
-- UpdatedNCP
-- NCP
+- Vulcan (2.7.5)
+- Grim (2.3.43)
+- UpdatedNCP (3.17.1-SNAPSHOT-UPDATED-b164)
+- NCP (3.16.1-SNAPSHOT-RC-sMOSNET-b1152)
 - AAC (4.4.2)
-- Spartan
-- Taka
-- Incognito
-- Gurei
+- AACAP (6.5.3)
+- AACA (8.5.1)
+- Spartan (Phase 513.1)
+- Taka (9.1.2)
+- Frequency (1.0)
+- Hawk (BETA 2108 (DEV))
+- Horizon (BETA17)
+- Incognito (1.1.5-ALPHA-PRE)
+- Gurei (1.0)
 #### Notes
 - This test server has a really buggy implementation of some anti-cheats such as Vulcan and Incognito, so you might not flag what the anti-cheat should flag
 - This is also the only known public test server with UpdatedNCP as the time of writing
@@ -71,8 +76,6 @@ Note: These anti-cheats are sorted by current popularity, and some other factors
 - Includes some rather rare anti-cheats
 - Also has old versions of anti-cheats
 - Only has an EU proxy, split into Main and other
-
-| Only has an EU proxy, but has multiple anti-cheats. Has 2 servers, Main and Other. [Main: tree.ac], [Other: tree.ac:25566] Currently has: 2 NCP Versions (both old), Horizon, BAC, AAC (3 and 4), old Spartan versions, and an Ancient Matrix version (I forgot about some other anti-cheats)
 
 - poke.sexy | Unknown proxy location, is LiquidBounce's official test server. Has some issues with connecting, and other multi-ac test servers are way better.
 
