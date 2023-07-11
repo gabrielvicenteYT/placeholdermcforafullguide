@@ -43,7 +43,36 @@ Note: These anti-cheats are sorted by current popularity, and some other factors
 - This test server has a really buggy implementation of some anti-cheats such as Vulcan and Incognito, so you might not flag what the anti-cheat should flag
 - This is also the only known public test server with UpdatedNCP as the time of writing
 
-- TreeAC | Only has an EU proxy, but has multiple anti-cheats. Has 2 servers, Main and Other. [Main: tree.ac], [Other: tree.ac:25566] Currently has: 2 NCP Versions (both old), Horizon, BAC, AAC (3 and 4), old Spartan versions, and an Ancient Matrix version (I forgot about some other anti-cheats)
+### TreeAC
+#### Proxies
+- Main: tree.ac
+- Other: tree.ac:25566
+#### Anti-Cheats
+##### Main
+- NCP (b1152)
+- AAC (4.4.2)
+- AACAP (7.1.3)
+- Spartan (Phase 512)
+- ACR (v1.9.8)
+- Hawk (b2108)
+- Reflex (v11.3-5-27732ae)
+- Horizon (v2.0-PRE-b34)
+##### Other
+- NCP (b1149)
+- AAC (3.6.4-b1)
+- AACAP (4.6.3)
+- Matrix (v4.0.4)
+- Spartan (b341)
+- Taka (v9.1.2)
+- Hawk (b1.8.12)
+- Horizon (v1.4.6-HOTFIX8)
+- BAC (v1.0.4)
+#### Notes
+- Includes some rather rare anti-cheats
+- Also has old versions of anti-cheats
+- Only has an EU proxy, split into Main and other
+
+| Only has an EU proxy, but has multiple anti-cheats. Has 2 servers, Main and Other. [Main: tree.ac], [Other: tree.ac:25566] Currently has: 2 NCP Versions (both old), Horizon, BAC, AAC (3 and 4), old Spartan versions, and an Ancient Matrix version (I forgot about some other anti-cheats)
 
 - poke.sexy | Unknown proxy location, is LiquidBounce's official test server. Has some issues with connecting, and other multi-ac test servers are way better.
 
