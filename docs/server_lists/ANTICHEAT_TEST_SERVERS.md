@@ -2,27 +2,46 @@
 
 Anti-Cheat Test Servers are vital both for cheating, AND for legit players. Server Owners *should* use anti-cheat test servers (along with a hacked client that bypasses practically everything), to choose an anti-cheat for their server-
 This list contains some popular anti-cheat test servers, along with some kind of unknown ones, so keep that in mind.
-### anticheat-test.com
+### AntiCheat Test
 #### Proxies
 - EU: eu.anticheat-test.com
 - NA: na.anticheat-test.com
 #### Anti-Cheats
 Note: These anti-cheats are sorted by current popularity
- - Grim (latest)
  - Vulcan (latest)
+ - Grim (latest)
  - NCP (old version)
  - AAC (4.4.2)
  - Matrix (latest?)
- - Grim (latest)
+ - Verus
+ - Spartan
  - HAC
  - DAC
  - Taka
- - Spartan
- - Verus
  - Frequency
  - Sloth
+#### Notes
+- This test server has a very stable anti-cheat selector system, and has literally no known bugs
+- It also has multiple anti-cheats, though you need to supplement with another test server such as Loyisa's Test Server
 
--  Loyisa's Test Server | Has AS + EU proxies, though they aren't linked together. Has multiple anti-cheats, though there are some weird issues that some people experience. [AS proxy: mc.loyisa.cn], [EU proxy: eu.loyisa.cn] Current anti-cheats there are: NCP (Both Old NCP and UNCP), Vulcan, AAC 4.4.2, Incognito, Spartan, Grim, Gurei (requires Dev rank to use), along with a few others
+### Loyisa's Test Server
+#### Proxies
+- EU: eu.loyisa.cn
+- AS: mc.loyisa.cn
+#### Anti-Cheats
+Note: These anti-cheats are sorted by current popularity, and some other factors
+- Vulcan (latest)
+- Grim
+- UpdatedNCP
+- NCP
+- AAC (4.4.2)
+- Spartan
+- Taka
+- Incognito
+- Gurei
+#### Notes
+- This test server has a really buggy implementation of some anti-cheats such as Vulcan and Incognito, so you might not flag what the anti-cheat should flag
+- This is also the only known public test server with UpdatedNCP as the time of writing
 
 - TreeAC | Only has an EU proxy, but has multiple anti-cheats. Has 2 servers, Main and Other. [Main: tree.ac], [Other: tree.ac:25566] Currently has: 2 NCP Versions (both old), Horizon, BAC, AAC (3 and 4), old Spartan versions, and an Ancient Matrix version (I forgot about some other anti-cheats)
 
