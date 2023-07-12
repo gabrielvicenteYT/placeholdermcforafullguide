@@ -23,7 +23,7 @@ Note: These anti-cheats are sorted by current popularity
 #### Notes
 - This test server has a very stable anti-cheat selector system, and has literally no known bugs
 - It also has multiple anti-cheats, though you need to supplement with another test server such as Loyisa's Test Server
-
+>ㅤ
 ### Loyisa's Test Server
 #### Proxies
 - EU: eu.loyisa.cn
@@ -45,14 +45,15 @@ Note: These anti-cheats are sorted by current popularity, and some other factors
 - Incognito (1.1.5-ALPHA-PRE)
 - Gurei (1.0)
 #### Notes
-- This test server has a really buggy implementation of some anti-cheats such as Vulcan and Incognito, so you might not flag what the anti-cheat should flag
+- This test server has a really buggy implementation of some event-based anti-cheats such as Vulcan and Incognito, so you might not flag what the anti-cheat should flag
 - This is also the only known public test server with UpdatedNCP as the time of writing
-
+>ㅤ
 ### TreeAC
 #### Proxies
 - Main: tree.ac
 - Other: tree.ac:25566
 #### Anti-Cheats
+Note: These anti-cheats are sorted by current popularity, and some other factors
 ##### Main
 - NCP (b1152)
 - AAC (4.4.2)
@@ -76,27 +77,31 @@ Note: These anti-cheats are sorted by current popularity, and some other factors
 - Includes some rather rare anti-cheats
 - Also has old versions of anti-cheats
 - Only has an EU proxy, split into Main and other
+>ㅤ
 
-- poke.sexy | Unknown proxy location, is LiquidBounce's official test server. Has some issues with connecting, and other multi-ac test servers are way better.
-
+### poke.sexy
+#### Proxies
+- EU Proxy: poke.sexy
+#### Anti-Cheats
+Note: These anti-cheats are sorted by current popularity, and some other factors
+- Unknown at the time
+#### Notes
+- Server is down, currently having a near-complete remodel
+>ㅤ
 - Spartan Test Server | EU Proxy. It's the official test server of Spartan, powered by the owner himself, Vagdedes. To get an elytra, you have to contact him, but that shouldn't be hard. Very likely always has the latest bleeding-edge build. (IP: minecraft.vagdedes.com)
-
-
+>ㅤ
 - Grim Test Server | NA Proxy. It's the abandoned official test server of Grim, having no support + an old version of Grim. Use this for testing old bypasses ONLY, since there are better alternatives that use the latest versions (AntiCheat-Test and Loyisa's Test Server), (IP: test.grim.ac). IT IS CURRENTLY WHITELISTED, DO NOT TRY TO JOIN.
-
-
+>ㅤ
 - Karhu Test Server | EU (most likely) Proxy. It's the official test server of Karhu, and has the latest bleeding-edge builds. (IP: test.karhu.cc)
-
-
+>ㅤ
 - GodsEye Test Server | NA Proxy. It's the official test server of GodsEye, a mostly unknown anti-cheat to the community. (IP: godseye.nort721.com). Note that most people said that it's private, though I can get in with ease.
-
-
+>ㅤ
 - Reflex Test Server | EU Proxy. The official test server of Reflex, an "add-on" to NCP (IP: test.reflex.rip).
-
-
+>ㅤ
 - AntiAura Test Server | NA Proxy. The official test server of AntiAura, an outdated anti-cheat (IP: endcraft.net).
-
+>ㅤ
 - Polar Test Server | EU Proxy. The official test server of Polar, the most used anti-cheat at the moment. However, the test server is private. (IP: test.polar.top)
-
-
+>ㅤ
 - Dream Client's Test Server | Unknown Proxy. A GodsEye test server created by Dream Client (IP: test.dreamclient.xyz) IT IS CURRENTLY DOWN, DON'T USE
+
+>ㅤ
