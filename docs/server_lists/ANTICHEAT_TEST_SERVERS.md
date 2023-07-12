@@ -13,7 +13,7 @@ Note: These anti-cheats are sorted by current popularity
  - NCP (3.16.0-RC-sMOSNET-b1134)
  - AAC (4.4.2)
  - Matrix (6.9.5)
- - Verus Premium
+ - Verus Premium (b3882)
  - Spartan (Phase 507.2)
  - HAC (0.45a)
  - DAC (1.0.7)
