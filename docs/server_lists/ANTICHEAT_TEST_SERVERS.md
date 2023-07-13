@@ -1,7 +1,7 @@
 ## Anti-Cheat Test Servers
-
 Anti-Cheat Test Servers are vital both for cheating, AND for legit players. Server Owners *should* use anti-cheat test servers (along with a hacked client that bypasses practically everything), to choose an anti-cheat for their server-
 This list contains some popular anti-cheat test servers, along with some kind of unknown ones, so keep that in mind.
+## Multi Anti-Cheat Test Servers
 ### AntiCheat Test
 #### Proxies
 - EU: eu.anticheat-test.com
@@ -88,11 +88,34 @@ Note: These anti-cheats are sorted by current popularity, and some other factors
 #### Notes
 - Server is down, currently having a near-complete remodel
 >ㅤ
-- Spartan Test Server | EU Proxy. It's the official test server of Spartan, powered by the owner himself, Vagdedes. To get an elytra, you have to contact him, but that shouldn't be hard. Very likely always has the latest bleeding-edge build. (IP: minecraft.vagdedes.com)
+## Single Anti-Cheat Test Servers
+### Karhu Test Server
+#### Proxies
+- EU Proxy: test.karhu.cc
+- EU Proxy (Practice):
+#### Anti-Cheat
+- Karhu
+#### Notes
+- This is Karhu's official test server, so expect the anti-cheat to work properly, and have the latest builds.
 >ㅤ
-- Grim Test Server | NA Proxy. It's the abandoned official test server of Grim, having no support + an old version of Grim. Use this for testing old bypasses ONLY, since there are better alternatives that use the latest versions (AntiCheat-Test and Loyisa's Test Server), (IP: test.grim.ac). IT IS CURRENTLY WHITELISTED, DO NOT TRY TO JOIN.
+### Spartan Test Server
+#### Proxies
+- EU Proxy: minecraft.vagdedes.com
+#### Anti-Cheat
+- Spartan
+#### Notes
+- This is the official Spartan Test Server, so be prepared to test bleeding-edge builds
+- If you want an elytra, contact Vagdedes
+| EU Proxy. It's the official test server of Spartan, powered by the owner himself, Vagdedes. To get an elytra, you have to contact him, but that shouldn't be hard. Very likely always has the latest bleeding-edge build. (IP: minecraft.vagdedes.com)
 >ㅤ
-- Karhu Test Server | EU (most likely) Proxy. It's the official test server of Karhu, and has the latest bleeding-edge builds. (IP: test.karhu.cc)
+### Grim Test Server 
+#### Proxies
+- NA Proxy: test.grim.ac
+#### Anti-Cheat
+- Grim (Old Version)
+#### Notes
+- The server is now closed, due to the owner of the test server considering that Grim is no longer needed, and that anti-cheats such as Vulcan should be used instead.
+- If you still want to test Grim, go on AntiCheat Test or Loyisa's Test Server, since they're the only ones who have Grim right now (RECOMMENDATION: Use AntiCheat Test, it false flags less for some reason)
 >ㅤ
 - GodsEye Test Server | NA Proxy. It's the official test server of GodsEye, a mostly unknown anti-cheat to the community. (IP: godseye.nort721.com). Note that most people said that it's private, though I can get in with ease.
 >ㅤ
