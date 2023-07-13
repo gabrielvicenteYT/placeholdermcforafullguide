@@ -1,5 +1,5 @@
 ## Anti-Cheat Test Servers
-Anti-Cheat Test Servers are vital both for cheating, AND for legit players. Server Owners *should* use anti-cheat test servers (along with a hacked client that bypasses practically everything), to choose an anti-cheat for their server-
+Anti-Cheat Test Servers are vital both for cheaters AND for legit players. Server Owners *should* use anti-cheat test servers (along with a hacked client that bypasses practically everything), to choose an anti-cheat for their server-
 This list contains some popular anti-cheat test servers, along with some kind of unknown ones, so keep that in mind.
 ## Multi Anti-Cheat Test Servers
 ### AntiCheat Test
@@ -117,14 +117,47 @@ Note: These anti-cheats are sorted by current popularity, and some other factors
 - The server is now closed, due to the owner of the test server considering that Grim is no longer needed, and that anti-cheats such as Vulcan should be used instead.
 - If you still want to test Grim, go on AntiCheat Test or Loyisa's Test Server, since they're the only ones who have Grim right now (RECOMMENDATION: Use AntiCheat Test, it false flags less for some reason)
 >ㅤ
-- GodsEye Test Server | NA Proxy. It's the official test server of GodsEye, a mostly unknown anti-cheat to the community. (IP: godseye.nort721.com). Note that most people said that it's private, though I can get in with ease.
+### GodsEye Test Server
+#### Proxies
+- NA Proxy: godseye.nort721.com
+#### Anti-Cheat
+- GodsEye
+#### Notes
+- This GodsEye's test server is the official one, so keep that in mind
+- Many people report that this server is whitelisted
 >ㅤ
-- Reflex Test Server | EU Proxy. The official test server of Reflex, an "add-on" to NCP (IP: test.reflex.rip).
+### Reflex Test Server 
+#### Proxies 
+- EU Proxy: test.reflex.rip
+#### Anti-Cheat 
+- Reflex
+#### Notes 
+- This is Reflex's official test server, which means it probably has the latest builds
 >ㅤ
-- AntiAura Test Server | NA Proxy. The official test server of AntiAura, an outdated anti-cheat (IP: endcraft.net).
+### AntiAura Test Server 
+#### Proxies 
+- NA Proxy: endcraft.net 
+#### Anti-Cheat 
+- AntiAura 
+#### Notes 
+- This is AntiAura's official and only known test server
+- This test server is cracked. which means you can use offline accounts! The official test server of AntiAura, an outdated anti-cheat (IP: endcraft.net).
 >ㅤ
-- Polar Test Server | EU Proxy. The official test server of Polar, the most used anti-cheat at the moment. However, the test server is private. (IP: test.polar.top)
+### Polar Test Server 
+#### Proxies 
+- EU Proxy: test.polar.top 
+#### Anti-Cheat 
+- Polar 
+#### Notes 
+- This is Polar's official test server, also being the only one at the time
+- This test server is private
 >ㅤ
-- Dream Client's Test Server | Unknown Proxy. A GodsEye test server created by Dream Client (IP: test.dreamclient.xyz) IT IS CURRENTLY DOWN, DON'T USE
-
->ㅤ
+### Dream Client's Test Server 
+#### Proxies 
+- Unknown Proxy: test.dreamclient.xyz 
+#### Anti-Cheat 
+- GodsEye 
+#### Notes 
+- This test server is unofficial
+- This server is currently down
+>ㅤ This is the end of the list, please contact if you know any other anti-cheat test servers!
