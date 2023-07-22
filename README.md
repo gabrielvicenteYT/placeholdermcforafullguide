@@ -1,4 +1,4 @@
-# Full Minecraft Guide
+# Full MC Cheating Guide
 This is a general guide of Minecraft Java Edition, excluding a few obvious things. This list is currently 100% made by me, so contribute to the project! Descriptions for the things will be covered below, the full parts will be seperate, by links.
 
 ## Just started to play Minecraft?
