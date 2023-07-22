@@ -91,20 +91,65 @@ KillAura is one of the most important modules, if not *the* most important modul
 - Makes the AutoBlock interact with ememies
 
 - Recommended value: unknown
-#### SmartAutoBlock
+#### Smart AutoBlock
 - Makes AutoBlock only work when specific conditions are met
 - When to use: If the server you're on has patched NoSlow, this can help you still AutoBlock while not getting slowed down too much.
 
 - Recommended value: false
-> SmartAutoBlock's values will be added later on
-#### BlockRate 
+> SmartAutoBlock-dependent values start
+#### Force Block When Still
+- Ignores all SmartAutoBlock settings when standing still. Still gets fully affected by BlockRate, though
+
+- Recommended value: false
+#### Check Enemy Weapon
+- Only blocks when an enemy is either using a sword or an axe.
+
+- Recommended value: false
+#### Block Range
+- Only blocks when you are in range (depending on the value here). Has a bug that makes it not block further than set attack range.
+
+- Recommended value: 3.2
+#### Max Own HurtTime
+- Doesn't block when you can't get damaged at all (Same method as HurtTime).
+- When to use a high value: If you are in a gamemode that has a low hitdelay, adjust accordingly.
+
+- Recommended value: 2
+#### Max Opponent Direction Diff
+- Only blocks when the enemy is looking close enough at you.
+
+- Recommended value: 60
+#### Max Opponent Swing Progress
+- Doesn't block if an enemy is still swinging somewhere else, and therefore cannot attack you.
+
+- Recommended value: 1
+> SmartAutoBlock-dependent values end
+#### Block Rate 
 - The chance (in percentage), that AutoBlock will do its thing.
 
 - Recommended value: 100
+#### Max Turn Speed
+- The maximum speed (In radians) that KillAura rotates to its target.
+- When to use higher value: Whenever possible, as long as the anti-cheat does not detect higher values. If the anti-cheat is sophisticated enough, make sure to keep this value at least 1/4 higher than Min Turn Speed.
+
+- Recommended value: 50
+#### Min Turn Speed
+- The minimum speed (In radians) that KillAura rotates to its target.
+- When to use higher value: Whenever possible, as long as the anti-cheat does not detect higher values. If the anti-cheat is sophisticated enough, make sure to keep this value at least 1/4 lower than Max Turn Speed.
+
+- Recommended value: 35
+#### RayCast 
+- Hits any entity in the Targets that is between you and your target
+
+- Recommended value: true
+#### RayCast Ignored 
+- Makes RayCast hit all entities between you and your target, instead of just the ones in Targets.
+
+- Recommended value: true
+#### Living RayCast 
+- Makes RayCast ignore all non-living entities between you andd your target
+
+- Recommended value: false
 AAC: Makes KillAura bypass Advanced AntiCheats by hitting entities which appear inside of your opponent
-Raycast: Hits any entity (Which is targeted) that is between you and your target (As if you aimed there and clicked)
-RayCastIgnored: like raycast, but disregards Targets and hits anything between you and your target.
-LivingRayCast: ignores all non living entities
 Predict: predicts where the target is moving and aims ahead of them
 PredictSize: how much it will aim forward of the target's movement
 Failrate: the % the killaura fails to hit someone
