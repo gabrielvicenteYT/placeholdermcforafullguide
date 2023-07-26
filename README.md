@@ -112,21 +112,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -179,7 +164,7 @@ Distributed under the CC0 License. See <a href="LICENSE">`LICENSE`</a> for more 
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [repository-url][repository-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -198,6 +183,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[repository-url]: https://github.com/gabrielvicenteYT/placeholdermcforafullguide
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=flat
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/gabrielvicenteYT/placeholdermcforafullguide.svg?style=flat
