@@ -76,6 +76,11 @@
                   <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations">Value Explanations</a></li>
                     <ul>
                       <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/combat">Combat</li>
+                        <ul>
+                          <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/combat/KILLAURA.md">KillAura</li>
+                          </a>
+                        </ul>
+                      </a>
                       <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/exploit">Exploit</li>
                       <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/fun">Fun</li>
                       <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/misc">Misc</li>
@@ -83,6 +88,7 @@
                       <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/player">Player</li>
                       <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/render">Render</li>
                       <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/world">world</li>
+                      </a>
                     </ul>
                 </ul>
           </ul>
