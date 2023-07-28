@@ -66,9 +66,9 @@
       </ul>
     </li>
     <ul>
-      <a href="#getting-started">Hacked Clients</a>
+      <a href="docs/hacked_clients">Hacked Clients</a>
       <ul>
-        <li><a href="#prerequisites">LiquidBounce</a></li>
+        <li><a href="docs/hacked_clients/liquidbounce/LIQUIDBOUNCE.md">LiquidBounce</a></li>
           <ul>
               <li><a href="docs/hacked_clients/liquidbounce/nextgen">Nextgen</a></li>
               <li><a href="docs/hacked_clients/liquidbounce/legacy">Legacy</a></li>
