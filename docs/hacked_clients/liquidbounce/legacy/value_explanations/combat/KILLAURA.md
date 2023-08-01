@@ -1,4 +1,3 @@
-
 ## Explaining LiquidBounce's module values
 LiquidBounce is currently the best free hacked client; but it needs to be configured properly.
 This tutorial will cover multiple values and will explain modules in depth, and will guide you towards the journey to being a config maker.
@@ -197,12 +196,26 @@ KillAura is one of the most important modules, if not *the* most important modul
 #### Angle Treshold Until Reset
 
 #### Micronized
+- Makes the KillAura rotations weaker
+
+- Recommended value: true
 
 #### Micronized Strength
+- The strength of the Micronized option
+
+- Recommended value: 1.4 (?)
 
 #### Silent Rotation
 
 #### Strafe
+- Makes the player move accordingly to KillAura's rotations.
+
+##### Strafe Modes
+- Off: Does nothing, moves accordingly to the client-side rotations
+- Silent: Moves accordingly to KillAura's rotations, but a bit off because it's supposed to feel like Off
+- Strict: Moves 100% legit
+
+- Recommended value: Strict
 
 #### Random Center
 
@@ -213,7 +226,7 @@ KillAura is one of the most important modules, if not *the* most important modul
 #### Predict 
 - Predicts where the target is moving and aims ahead of them.
 
-- Recommended value: true
+- Recommended value: false
 #### Max Predict Size
 - The maximum (in float) that KillAura aims ahead of the target's movement.
 
