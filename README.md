@@ -58,10 +58,10 @@
     <li>
       <a href="#about-the-project">Docs</a>
       <ul>
-        <li><a href="#built-with">Server Lists</a></li>
+        <li><a href="docs/server_lists">Server Lists</a></li>
           <ul>
-            <li><a href="#built-with">Anti-Cheat Test Servers</a></li>
-            <li><a href="#built-with">Anti-Crash Test Servers</a></li>
+            <li><a href="docs/server_lists/ANTICHEAT_TEST_SERVERS.md">Anti-Cheat Test Servers</a></li>
+            <li><a href="docs/server_lists/ANTICRASH_TEST_SERVERS.md">Anti-Crash Test Servers</a></li>
           </ul>
       </ul>
     </li>
