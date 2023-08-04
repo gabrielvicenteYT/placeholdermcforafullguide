@@ -1,11 +1,9 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
+*** Thanks for checking out this README file. If you have a suggestion
+*** If you like this README, make sure to check out https://github.com/othneildrew/Best-README-Template,
+*** since it's the README template that I use!
+*** Don't forget to give the project, and the README template a star!
 -->
 
 
@@ -38,14 +36,14 @@
   <p align="center">
     A Minecraft Cheating Guide that prefers free, open-source cheats.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/gabrielvicenteYT/placeholdermcforafullguide"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://discord.gg/sYWWJqRzM4">Discord Server</a>
     ·
-    <a href="https://github.com/gabrielvicenteYT/placeholdermcforafullguide/issues">Report Bug</a>
+    <a href="https://github.com/gabrielvicenteYT/placeholdermcforafullguide/pulls">Pull Requests</a>
     ·
-    <a href="https://github.com/gabrielvicenteYT/placeholdermcforafullguide/issues">Request Feature</a>
+    <a href="https://github.com/gabrielvicenteYT/placeholdermcforafullguide/issues">Issues</a>
   </p>
 </div>
 
@@ -111,8 +109,6 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This is a general guide for Minecraft Java Edition cheating, going from the easiest things, to the most obscure settings that can only have documentation in a completely different part of the code. This list is currently self-made, so contribute to the project! Descriptions for the things will be covered both above and below.
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
