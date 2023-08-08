@@ -172,7 +172,7 @@ KillAura is one of the most important modules, if not *the* most important modul
 - Recommended value: 35
 
 #### RayCast
-- Hits any entity in the Targets that is between you and your target
+- Hits any entity in the Targets that is between you and your target.
 
 - Recommended value: true
 
@@ -182,7 +182,7 @@ KillAura is one of the most important modules, if not *the* most important modul
 - Recommended value: true
 
 #### Living RayCast
-- Makes RayCast ignore all non-living entities between you andd your target
+- Makes RayCast ignore all non-living entities between you and your target.
 
 - Recommended value: false
 
@@ -196,37 +196,50 @@ KillAura is one of the most important modules, if not *the* most important modul
 #### Angle Treshold Until Reset
 
 #### Micronized
-- Makes the KillAura rotations weaker
+- Makes the KillAura rotations weaker.
 
 - Recommended value: true
 
 #### Micronized Strength
-- The strength of the Micronized option
+- The strength of the Micronized option.
 
 - Recommended value: 1.4 (?)
 
 #### Silent Rotation
+- Makes the KillAura have silent rotations; if you don't want to flag with it on, use Strict strafe
+
+- Recommended value: true
 
 #### Strafe
 - Makes the player move accordingly to KillAura's rotations.
 
 ##### Strafe Modes
-- Off: Does nothing, moves accordingly to the client-side rotations
-- Silent: Moves accordingly to KillAura's rotations, but a bit off because it's supposed to feel like Off
-- Strict: Moves 100% legit
+- Off: Does nothing, moves accordingly to the client-side rotations.
+- Silent: Moves 99% accordingly to KillAura's rotations, but seems to flag on anti-cheats like Grim.
+- Strict: Moves 100% legit.
 
 - Recommended value: Strict
 
 #### Random Center
+- Makes the KillAura shake a ton, not recommended since anti-cheats seem to detect it.
+
+- Recommended value: false
 
 #### Outborder
+- Makes the KillAura shake a ton, and make it go to the borders of the hitbox, also not recommended.
+
+- Recommended value: false
 
 #### FOV
+- Makes the KillAura only hit when it's in a lower distance (field of view-wise, client-sidedly) than the specified value.
+
+- Recommended value: 180
 
 #### Predict 
 - Predicts where the target is moving and aims ahead of them.
 
 - Recommended value: false
+
 #### Max Predict Size
 - The maximum (in float) that KillAura aims ahead of the target's movement.
 
@@ -264,6 +277,7 @@ KillAura is one of the most important modules, if not *the* most important modul
 - Will show a square on top of the target you are attacking.
 
 - Recommended value: purely visual, choose it yourself
+
 #### FakeSharp
 - Shows fake sharpness enchantment particles.
 
