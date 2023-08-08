@@ -2,6 +2,7 @@
 Anti-Cheat Test Servers are vital both for cheaters AND for legit players. Server Owners *should* use anti-cheat test servers (along with a hacked client that bypasses practically everything), to choose an anti-cheat for their server-
 This list contains some popular anti-cheat test servers, along with some kind of unknown ones, so keep that in mind.
 ## Multi Anti-Cheat Test Servers
+
 ### AntiCheat Test
 #### Proxies
 - EU: eu.anticheat-test.com
@@ -24,6 +25,7 @@ Note: These anti-cheats are sorted by current popularity
 - This test server has a very stable anti-cheat selector system, and has literally no known bugs
 - It also has multiple anti-cheats, though you need to supplement with another test server such as Loyisa's Test Server
 >ㅤ
+
 ### Loyisa's Test Server
 #### Proxies
 - EU: eu.loyisa.cn
@@ -48,6 +50,7 @@ Note: These anti-cheats are sorted by current popularity, and some other factors
 - This test server has a really buggy implementation of some event-based anti-cheats such as Vulcan and Incognito, so you might not flag what the anti-cheat should flag
 - This is also the only known public test server with UpdatedNCP as the time of writing
 >ㅤ
+
 ### TreeAC
 #### Proxies
 - Main: tree.ac
@@ -88,7 +91,9 @@ Note: These anti-cheats are sorted by current popularity, and some other factors
 #### Notes
 - Server is down, currently having a near-complete remodel
 >ㅤ
+
 ## Single Anti-Cheat Test Servers
+
 ### Karhu Test Server
 #### Proxies
 - EU Proxy: test.karhu.cc
@@ -98,6 +103,7 @@ Note: These anti-cheats are sorted by current popularity, and some other factors
 #### Notes
 - This is Karhu's official test server, so expect the anti-cheat to work properly, and have the latest builds.
 >ㅤ
+
 ### Spartan Test Server
 #### Proxies
 - EU Proxy: minecraft.vagdedes.com
@@ -106,8 +112,8 @@ Note: These anti-cheats are sorted by current popularity, and some other factors
 #### Notes
 - This is the official Spartan Test Server, so be prepared to test bleeding-edge builds
 - If you want an elytra, contact Vagdedes
-| EU Proxy. It's the official test server of Spartan, powered by the owner himself, Vagdedes. To get an elytra, you have to contact him, but that shouldn't be hard. Very likely always has the latest bleeding-edge build. (IP: minecraft.vagdedes.com)
 >ㅤ
+
 ### Grim Test Server 
 #### Proxies
 - NA Proxy: test.grim.ac
@@ -117,6 +123,7 @@ Note: These anti-cheats are sorted by current popularity, and some other factors
 - The server is now closed, due to the owner of the test server considering that Grim is no longer needed, and that anti-cheats such as Vulcan should be used instead.
 - If you still want to test Grim, go on AntiCheat Test or Loyisa's Test Server, since they're the only ones who have Grim right now (RECOMMENDATION: Use AntiCheat Test, it false flags less for some reason)
 >ㅤ
+
 ### GodsEye Test Server
 #### Proxies
 - NA Proxy: godseye.nort721.com
@@ -126,6 +133,7 @@ Note: These anti-cheats are sorted by current popularity, and some other factors
 - This GodsEye's test server is the official one, so keep that in mind
 - Many people report that this server is whitelisted
 >ㅤ
+
 ### Reflex Test Server 
 #### Proxies 
 - EU Proxy: test.reflex.rip
@@ -133,7 +141,8 @@ Note: These anti-cheats are sorted by current popularity, and some other factors
 - Reflex
 #### Notes 
 - This is Reflex's official test server, which means it probably has the latest builds
->ㅤ
+>
+ㅤ
 ### AntiAura Test Server 
 #### Proxies 
 - NA Proxy: endcraft.net 
@@ -143,6 +152,7 @@ Note: These anti-cheats are sorted by current popularity, and some other factors
 - This is AntiAura's official and only known test server
 - This test server is cracked. which means you can use offline accounts! The official test server of AntiAura, an outdated anti-cheat (IP: endcraft.net).
 >ㅤ
+
 ### Polar Test Server 
 #### Proxies 
 - EU Proxy: test.polar.top 
@@ -152,12 +162,24 @@ Note: These anti-cheats are sorted by current popularity, and some other factors
 - This is Polar's official test server, also being the only one at the time
 - This test server is private
 >ㅤ
+
 ### Dream Client's Test Server 
 #### Proxies 
-- Unknown Proxy: test.dreamclient.xyz 
+- Unknown Proxy: test.dreamclient.xyz
 #### Anti-Cheat 
 - GodsEye 
 #### Notes 
 - This test server is unofficial
 - This server is currently down
+>
+
+### Negativity Test Server 
+#### Proxies 
+- EU(?) Proxy: play.negativity.fr
+#### Anti-Cheat 
+- Negativity
+#### Notes 
+- This is Negativity's official test server, also being the only one at the time, though AntiCheat Test formerly had it
+- This test server only allows new Minecraft versions, though you can use ViaForge or any client with an updated version of ViaMCP, in case you don't want to use new versions.
+
 >ㅤ This is the end of the list, please contact if you know any other anti-cheat test servers!
