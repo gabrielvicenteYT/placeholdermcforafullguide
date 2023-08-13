@@ -51,57 +51,72 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
-  <ul>
-    <li>
+   <summary>Table of Contents</summary>
+   <ul>
+   <li>
       <a href="#about-the-project">Docs</a>
       <ul>
-        <li><a href="docs/server_lists">Server Lists</a></li>
-          <ul>
+         </li>
+         <li><a href="docs/hacked_clients">Hacked Clients</a></li>
+         <ul>
+            <li><a href="docs/hacked_clients/liquidbounce/LIQUIDBOUNCE.md">LiquidBounce</a></li>
+            <ul>
+               <li><a href="docs/hacked_clients/liquidbounce/nextgen">Nextgen</a></li>
+               <li><a href="docs/hacked_clients/liquidbounce/legacy">Legacy</a></li>
+               <ul>
+                  <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations">Value Explanations</a></li>
+                  <ul>
+                     <li>
+                        <a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/combat">
+                           Combat
+                     </li>
+                     <ul>
+                     <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/combat/KILLAURA.md">KillAura</li>
+                     </a>
+                     </ul>
+                     </a>
+                     <li>
+                        <a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/exploit">
+                           Exploit
+                     </li>
+                     <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/fun">Fun</li>
+                     <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/misc">Misc</li>
+                     <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/movement">Movement</li>
+                     <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/player">Player</li>
+                     <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/render">Render</li>
+                     <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/world">world</li>
+                     </a>
+                  </ul>
+               </ul>
+            </ul>
+         </ul>
+         </li>
+         <li><a href="docs/anti-cheats">Anti-Cheats</a></li>
+         <ul>
+            <li><a href="docs/anti-cheats/check_explanations">Check Explanations</a></li>
+            <ul>
+               <li><a href="docs/anti-cheats/check_explanations/combat">Combat</a></li>
+               <ul>
+                  <li><a href="docs/anti-cheats/check_explanations/combat/AIM.md">Aim</a></li>
+               </ul>
+            </ul>
+         </ul>
+      </ul>
+      <ul>
+         <li><a href="docs/server_lists">Server Lists</a></li>
+         <ul>
             <li><a href="docs/server_lists/ANTICHEAT_TEST_SERVERS.md">Anti-Cheat Test Servers</a></li>
             <li><a href="docs/server_lists/ANTICRASH_TEST_SERVERS.md">Anti-Crash Test Servers</a></li>
-          </ul>
+         </ul>
       </ul>
-    </li>
-    <ul>
-      <a href="docs/hacked_clients">Hacked Clients</a>
-      <ul>
-        <li><a href="docs/hacked_clients/liquidbounce/LIQUIDBOUNCE.md">LiquidBounce</a></li>
-          <ul>
-              <li><a href="docs/hacked_clients/liquidbounce/nextgen">Nextgen</a></li>
-              <li><a href="docs/hacked_clients/liquidbounce/legacy">Legacy</a></li>
-                <ul>
-                  <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations">Value Explanations</a></li>
-                    <ul>
-                      <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/combat">Combat</li>
-                        <ul>
-                          <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/combat/KILLAURA.md">KillAura</li>
-                          </a>
-                        </ul>
-                      </a>
-                      <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/exploit">Exploit</li>
-                      <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/fun">Fun</li>
-                      <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/misc">Misc</li>
-                      <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/movement">Movement</li>
-                      <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/player">Player</li>
-                      <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/render">Render</li>
-                      <li><a href="docs/hacked_clients/liquidbounce/legacy/value_explanations/world">world</li>
-                      </a>
-                    </ul>
-                </ul>
-          </ul>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
+   <li><a href="#usage">Usage</a></li>
+   <li><a href="#roadmap">Roadmap</a></li>
+   <li><a href="#contributing">Contributing</a></li>
+   <li><a href="#license">License</a></li>
+   <li><a href="#contact">Contact</a></li>
+   <li><a href="#acknowledgments">Acknowledgments</a></li>
+   </ol>
 </details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
