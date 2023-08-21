@@ -147,7 +147,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Create a good logo for this project
     - [ ] Find a good name for this project
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/gabrielvicenteYT/placeholdermcforafullguide/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,9 +179,7 @@ Distributed under the CC0 License. See <a href="LICENSE">`LICENSE`</a> for more 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [repository-url][repository-url]
+Project Link: [GitHub][https://github.com/gabrielvicenteYT/placeholdermcforafullguide]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
