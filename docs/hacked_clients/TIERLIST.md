@@ -17,4 +17,4 @@ Sigma Nextgen is a new free hacked client, and a so-called continuation of Sigma
 - Visuals: 9/10 (would be 10/10 if it had the Classic design, and remakes of other hacked clients' HUDs)
 - Price: 10/10 (free, but not open-source)
 - Safety: 7/10 (not sure about it, seems safe from my testing doe)
-- Ease of use: 3/10 (only works on HMCL, what the hell is with the installation process?!?)
+- Ease of use: 7/10 (You install it like how you do it with most cracked clients)
