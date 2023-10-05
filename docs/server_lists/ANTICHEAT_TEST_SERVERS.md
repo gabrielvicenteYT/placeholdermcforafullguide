@@ -5,8 +5,8 @@ This list contains some popular anti-cheat test servers, along with some kind of
 
 ### AntiCheat Test
 #### Proxies
-- EU: eu.anticheat-test.com
-- NA: na.anticheat-test.com
+- EU: anticheat-test.com
+- EU (Bedrock Edition): bedrock.anticheat-test.com:19337
 #### Anti-Cheats
 Note: These anti-cheats are sorted by current popularity
  - Vulcan (2.7.5)
@@ -36,15 +36,16 @@ Note: These anti-cheats are sorted by current popularity, and some other factors
 - Grim (2.3.43)
 - UpdatedNCP (3.17.1-SNAPSHOT-UPDATED-b164)
 - NCP (3.16.1-SNAPSHOT-RC-sMOSNET-b1152)
+- Verus (b3896)
+- Matrix (7.4.7)
 - AAC (4.4.2)
-- AACAP (6.5.3)
-- AACA (8.5.1)
-- Spartan (Phase 513.1)
+- AACA (8.8.2)
+- Spartan (Phase 522.1)
+- Reflex (11.3-5-27732ae)
 - Taka (9.1.2)
 - Frequency (1.0)
 - Hawk (BETA 2108 (DEV))
 - Horizon (BETA17)
-- Incognito (1.1.5-ALPHA-PRE)
 - Gurei (1.0)
 #### Notes
 - This test server has a really buggy implementation of some event-based anti-cheats such as Vulcan and Incognito, so you might not flag what the anti-cheat should flag
