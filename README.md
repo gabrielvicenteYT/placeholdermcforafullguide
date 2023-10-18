@@ -179,7 +179,7 @@ Distributed under the CC0 License. See <a href="LICENSE">`LICENSE`</a> for more 
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [GitHub][https://github.com/gabrielvicenteYT/placeholdermcforafullguide]
+Project Link: [GitHub](https://github.com/gabrielvicenteYT/placeholdermcforafullguide)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
