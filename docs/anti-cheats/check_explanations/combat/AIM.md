@@ -1,8 +1,5 @@
-## Explaining Anti-Cheat checks
-Since the very first anti-cheats, a lot has changed; they're not that easy to bypass anymore… Or are they…
-This tutorial will cover multiple checks and will explain them in depth, and will guide you towards the journey to being a config maker.
-
-### Aim Checks
+## Explaining Aim Checks
+Aim checks are essential to detect most cheaters. However, I am not here to tell you how to patch bypasses, I'm telling you how to bypass those checks.
 
 #### Aim Consistency 
 - Description: Checks for unnaturally consistent aim.
