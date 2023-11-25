@@ -9,15 +9,17 @@ This list contains some popular anti-cheat test servers, along with some kind of
 - EU (Bedrock Edition): bedrock.anticheat-test.com:19337
 #### Anti-Cheats
 Note: These anti-cheats are sorted by current popularity
- - Vulcan (2.7.7)
+ - Vulcan (2.7.9)
  - Grim (2.3.46)
- - GrimGithub (Latest GitHub commit)
+ - Grim GitHub (Latest GitHub commit)
  - Updated NCP (3.17.1-SNAPSHOT-Updated-b169)
  - NCP (3.16.0-RC-sMD5NET-b1134)
  - Old NCP (3.11.1-RC-sMD5NET-b743)
  - Verus Premium (b3896)
  - Sparky (3.18)
  - AAC (4.4.2)
+ - AAC 5 (5.0.12)
+ - Negativity (2.7.1)
  - Matrix (6.9.5)
  - Spartan (Phase 523.1)
  - Frequency (1.0)
@@ -32,7 +34,7 @@ Note: These anti-cheats are sorted by current popularity
 - AS: mc.loyisa.cn
 #### Anti-Cheats
 Note: These anti-cheats are sorted by current popularity, and some other factors
-- Vulcan (2.7.7)
+- Vulcan (2.7.9)
 - Grim (2.3.46)
 - UpdatedNCP (3.17.1-SNAPSHOT-UPDATED-b168)
 - NCP (3.16.1-SNAPSHOT-RC-sMD5NET-b1152)
@@ -49,7 +51,6 @@ Note: These anti-cheats are sorted by current popularity, and some other factors
 - Gurei (1.0)
 #### Notes
 - This test server has a really buggy implementation of some event-based anti-cheats such as Vulcan and Incognito, so you might not flag what the anti-cheat should flag
-- This is also the only known public test server with UpdatedNCP as the time of writing
 >ㅤ
 
 ### TreeAC
@@ -60,22 +61,23 @@ Note: These anti-cheats are sorted by current popularity, and some other factors
 Note: These anti-cheats are sorted by current popularity, and some other factors
 ##### Main
 - NCP (b1152)
-- AAC (4.4.2)
+- AAC (5.0.14-b1)
 - AACAP (7.1.3)
-- Spartan (Phase 512)
-- ACR (v1.9.8)
+- Spartan (Phase 526)
+- ACR (1.9.8)
 - Hawk (b2108)
-- Reflex (v11.3-5-27732ae)
-- Horizon (v2.0-PRE-b34)
+- Reflex (11.3-5-27732ae)
+- Horizon (2.0-PRE-b34)
 ##### Other
 - NCP (b1149)
-- AAC (3.6.4-b1)
+- AAC (4.4.2)
 - AACAP (4.6.3)
-- Matrix (v4.0.4)
-- Spartan (b341)
-- Taka (v9.1.2)
+- Matrix (4.0.4)
+- Spartan (b419.1)
+- Taka (9.1.2)
+- ACR (1.6.3-ALPHA)
 - Hawk (b1.8.12)
-- Horizon (v1.4.6-HOTFIX8)
+- Horizon (1.4.6-HOTFIX8)
 - BAC (v1.0.4)
 #### Notes
 - Includes some rather rare anti-cheats
