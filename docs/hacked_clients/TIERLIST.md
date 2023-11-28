@@ -14,6 +14,15 @@ LiquidBounce is one of the best free hacked clients, and I'd recommend it for ne
 - LiquidLauncher: 7/10 (decently good, however, you cannot install other clients onto it, which is sad)
 - Scripting: 8/10 (generally very good, no big cons)
 
+### Atani
+Atani is a free and open-source hacked client, which is not very known; it is mainly developed by Kellohylly.
+#### Rating
+- Bypasses: 6/10 (bypasses anti-cheats decently)
+- Visuals: 7/10 (has some good visual remakes, not much to say)
+- Price: 10/10 (free & open-source)
+- Safety: 9/10 (pretty sure it's safe, however, I cannot confirm)
+- Ease of use: 6/10 (takes a long time to launch, works on the Minecraft Launcher)
+
 ### Tenacity Reborn
 Tenacity Reborn is a free hacked client, and a continuation of Tenacity Reborn; it is made by me.
 #### Rating
@@ -77,6 +86,6 @@ Astolfo is a really good paid client, because of its amazing scripting API. Howe
 - Price: 6/10 (is 40 dollars, not the best)
 - Safety: 9/10 (made by reputable developers)
 - Ease of use: 6/10 (pretty sure it has a launcher, but I never saw it)
-### Extra Features
+#### Extra Features
 - Scripting: 9/10 (scripting API based on Lua, very good for what it is, though I'm not a fan of Lua's syntax)
 - Launcher: ?/10 (don't know anything about it)
